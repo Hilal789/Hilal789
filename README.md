@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
   <p align="center">
 </p>
-<h1> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1> Hello  &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
 </p>
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664" alt="Profile views">
@@ -26,17 +26,15 @@ Here are some ideas to get you started:
 <h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" width="100px"></h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 <ul>
-<li>
-<p>🔭 I’m currently working on  Soy Estudiante</p>
-</li>
+
 <li>
 <p>🌱 I’m currently learning Git, Java y GitHub</p>
 </li>
 <li>
-<p>👯 I’m looking to collaborate on Proyectos</p>
+<p>👯 I’m looking to collaborate </p>
 </li>
 <li>
-<p>💬 Ask me about Sql, Java, C#, JavaScript</p>
+<p>💬 Ask me about Sql, Java, JavaScript,React , Html, Css</p>
 </li>
 <li>
 <p>⚡ Fun fact: Me gustan los girasoles.</p>
@@ -64,7 +62,7 @@ Here are some ideas to get you started:
 <br>
 <br>
   <br>
-<p><a href="https://git.io/praveenscience"><img src="https://activity-graph.herokuapp.com/graph?username=Aditya664&amp;theme=tokyonight" alt="Aditya's GitHub Activity Graph"></a></p>
+<p><a href="https://git.io/praveenscience"><img src="https://activity-graph.herokuapp.com/graph?username=Hilal789&amp;theme=tokyonight" alt="Hilal's GitHub Activity Graph"></a></p>
 
 
 
@@ -84,5 +82,4 @@ Here are some ideas to get you started:
 <p><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></p>
 <br>
 <hr>
-<p>Credits: <a href="https://github.com/Aditya664">Aditya Deshmukh</a></p>
-<p>Last Edited on: 04/09/2021</p> 
+<p>Credits: <a href="https://github.com/Hilal789">S M Hilal</a></p>
