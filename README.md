@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 <h2 id="im-a-associate-software-engineer-at-acentura">I’m a  Software Engineer </h2>
 <ul>
-<li>👨‍💻 I’m currently working on machine learning and full-stack Java</li>
+<li>👨‍💻 I’m currently working on Full Stack Projects</li>
 <li>📚 Learning everything about Frontend and Backend technologies 😅</li>
 <li>💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.</li>
 </ul>
